@@ -1,0 +1,26 @@
+{
+  "queryText": "Paano maglakbay mula",
+  "action": "input.unknown",
+  "fulfillmentText": "One more time?",
+  "fulfillmentMessages": [
+    {
+      "text": {
+        "text": [
+          "[{\"type\":0,\"speech\":\"What was that?\"}]"
+        ]
+      }
+    }
+  ],
+  "intent": {
+    "id": "fa558d6a-e0dc-4c2a-b0df-ec263810542d",
+    "displayName": "Default Fallback Intent",
+    "isFallback": true
+  },
+  "languageCode": "en",
+  "sentimentAnalysisResult": {},
+  "id": "86a39629-04e8-48d4-ac44-c75130a8aca2",
+  "sessionId": "CF0SJENSVsuggest",
+  "timestamp": "2018-12-25T15:38:03.654Z",
+  "source": "agent",
+  "webhookStatus": {}
+}
